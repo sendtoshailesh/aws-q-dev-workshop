@@ -69,7 +69,7 @@ https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/10-understand
 https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/20-plan
 
 1.	Using Amazon Q Developer throughout SDLC
-o	Understand & Learn Phase
+*	Understand & Learn Phase
 o	Plan & Decide Phase
 o	Develop Phase
 --->	Code Generation
