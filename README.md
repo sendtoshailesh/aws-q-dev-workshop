@@ -70,15 +70,19 @@ https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/20-plan
 
 1.	Using Amazon Q Developer throughout SDLC
 *	Understand & Learn Phase
-o	Plan & Decide Phase
-o	Develop Phase
+
+*	Plan & Decide Phase
+*	Develop Phase
+  
 --->	Code Generation
 --->	Creating Classes
 --->	Generating Unit Tests
-o	Review Phase
+
+*	Review Phase
 --->	Securing Code
 --->	Optimizing Code
-o	Maintain Phase
+
+*	Maintain Phase
 --->	Feature Development
 --->	Replatforming
 --->	Language Conversion
