@@ -14,7 +14,7 @@ https://github.com/sendtoshailesh/aws-q-dev-workshop/blob/main/q-dev-workshop-co
 
  
 
-# Pre-requisite for workshop
+# Pre-requisite for workshop: create your builder ID
 
 Leverage your email to establish an AWS Builder ID, which will serve as your gateway to a comprehensive cloud learning experience. If you haven't already created one, now is an excellent opportunity to set up this versatile credential. This Builder ID will not only facilitate your current workshop but also provide ongoing access to AWS's robust ecosystem of resources and learning opportunities.
 
