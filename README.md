@@ -18,7 +18,7 @@ https://github.com/sendtoshailesh/aws-q-dev-workshop/blob/main/q-dev-workshop-co
 
 Leverage your email to establish an AWS Builder ID, which will serve as your gateway to a comprehensive cloud learning experience. If you haven't already created one, now is an excellent opportunity to set up this versatile credential. This Builder ID will not only facilitate your current workshop but also provide ongoing access to AWS's robust ecosystem of resources and learning opportunities.
 
-https://profile.aws.amazon.com/  or use below QR code:
+https://profile.aws.amazon.com/ 
 
 
  
@@ -29,7 +29,6 @@ https://profile.aws.amazon.com/  or use below QR code:
 
 https://catalog.workshops.aws/devexp-qbuilder/en-US/20-configuration/10-event
 
-or use below QR code:
 
  
 
