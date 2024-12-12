@@ -18,7 +18,8 @@ https://tinyurl.com/qdevhyd
 
  
 
-Pre-requisite for workshop
+# Pre-requisite for workshop
+
 Leverage your email to establish an AWS Builder ID, which will serve as your gateway to a comprehensive cloud learning experience. If you haven't already created one, now is an excellent opportunity to set up this versatile credential. This Builder ID will not only facilitate your current workshop but also provide ongoing access to AWS's robust ecosystem of resources and learning opportunities.
 
 https://profile.aws.amazon.com/  or use below QR code:
@@ -28,7 +29,7 @@ https://profile.aws.amazon.com/  or use below QR code:
 
 
 
-How to access for workshop env
+# How to access for workshop env
 
 https://catalog.workshops.aws/devexp-qbuilder/en-US/20-configuration/10-event
 
@@ -42,7 +43,7 @@ Bookmark following lab reference, you will need it throughout the day of your wo
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US
 
-Lab setup and configuration
+# Lab setup and configuration
 
 https://catalog.workshops.aws/devexp-qbuilder/en-US/20-configuration/10-event
 
@@ -51,11 +52,14 @@ login in browser based VS code as per instructions given in above link and valid
 open the terminal window in VS code
 run below:
 
+```bash
 python3 –version
 python --version
+```
+
 if there is issue in above commands then fix using section “Python language setup” given later in same doc.
 
-Lab instructions
+# Lab instructions
 
 
 https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/10-understand
@@ -66,16 +70,16 @@ https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/20-plan
 o	Understand & Learn Phase
 o	Plan & Decide Phase
 o	Develop Phase
-	Code Generation
-	Creating Classes
-	Generating Unit Tests
+--->	Code Generation
+--->	Creating Classes
+--->	Generating Unit Tests
 o	Review Phase
-	Securing Code
-	Optimizing Code
+--->	Securing Code
+--->	Optimizing Code
 o	Maintain Phase
-	Feature Development
-	Replatforming
-	Language Conversion
+--->	Feature Development
+--->	Replatforming
+--->	Language Conversion
 2.	Algorithms
 3.	Object Oriented Programming
 4.	Fake Data Generation
@@ -91,16 +95,16 @@ o	Maintain Phase
 
 
 
-1.	For Streamlit project, follow on
+For Streamlit project, follow on
 https://catalog.workshops.aws/devexp-qbuilder/en-US/2000-end-to-end-apps/05-python/05-streamlit-application
 
 
-Python language setup
+# Python language setup
 
 https://catalog.workshops.aws/devexp-qbuilder/en-US/20-configuration/30-language-setup
 
 check if python command is not working on terminal prompt then follow below:
-
+```
 # Update package list
 sudo apt update
 
@@ -112,9 +116,10 @@ python3 –version
 
 # Add to your ~/.bashrc or ~/.zshrc file
 alias python=python3
-
+```
 or 
 
+```
 # First check where python3 is located
 which python3
 
@@ -126,7 +131,7 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
 python --version
 python3 –version
 
-
+```
 
 
 
