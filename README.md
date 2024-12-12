@@ -2,11 +2,7 @@
 to collaborate during the workshop; 13-Dec-2024 in Hyderabad city at Amazon Office
 
 
-# tiny url for this repo:
 
-https://tinyurl.com/qdevhyd
-
-![image](https://github.com/user-attachments/assets/77e8b957-e0a3-432d-b346-41e5bb08c82f)
 
 # Lab config and setup (Download this file to local)
 
@@ -141,7 +137,11 @@ python3 –version
 ```
 
 
+# tiny url for this repo:
 
+https://tinyurl.com/qdevhyd
+
+![image](https://github.com/user-attachments/assets/77e8b957-e0a3-432d-b346-41e5bb08c82f)
 
 
 
