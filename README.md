@@ -11,8 +11,6 @@ https://github.com/sendtoshailesh/aws-q-dev-workshop/blob/main/q-dev-workshop-co
 
 
 
-QR-code and URL for workshop
-https://tinyurl.com/qdevhyd
 
  
 
@@ -144,6 +142,8 @@ https://tinyurl.com/qdevhyd
 ![image](https://github.com/user-attachments/assets/77e8b957-e0a3-432d-b346-41e5bb08c82f)
 
 
+QR-code and URL for workshop
+https://tinyurl.com/qdevhyd
 
 
 
