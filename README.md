@@ -73,7 +73,6 @@ https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/20-plan
 
 *	Plan & Decide Phase
 *	Develop Phase
-  
 --->	Code Generation
 --->	Creating Classes
 --->	Generating Unit Tests
@@ -86,6 +85,8 @@ https://catalog.workshops.aws/devexp-qbuilder/en-US/30-sdlc/20-plan
 --->	Feature Development
 --->	Replatforming
 --->	Language Conversion
+
+  
 2.	Algorithms
 3.	Object Oriented Programming
 4.	Fake Data Generation
