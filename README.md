@@ -6,6 +6,8 @@ to collaborate during the workshop; 13-Dec-2024 in Hyderabad city at Amazon Offi
 
 https://tinyurl.com/qdevhyd
 
+![image](https://github.com/user-attachments/assets/77e8b957-e0a3-432d-b346-41e5bb08c82f)
+
 # Lab config and setup (Download this file to local)
 
 https://github.com/sendtoshailesh/aws-q-dev-workshop/blob/main/q-dev-workshop-config-setup.docx
@@ -139,4 +141,4 @@ python3 –version
 
 
 
-![image](https://github.com/user-attachments/assets/77e8b957-e0a3-432d-b346-41e5bb08c82f)
+
